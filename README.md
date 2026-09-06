@@ -4,12 +4,14 @@
 
 <img src="imagens/body-banner.svg" alt="imagem do body">
 
-
+---
 
 ## 🚀 Meus Projetos
 
 ### ☕ Cafe-do-Sub
 > Um site de uma cafeteria desenvolvido para praticar HTML e criação de páginas web.
+
+**Status:** 🚧 Em desenvolvimento
 
 **Tecnologias:**
 `HTML` `CSS`
