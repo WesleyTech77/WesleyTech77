@@ -3,7 +3,3 @@
 </p>
 
 <img src="imagens/body-banner.svg" alt="imagem do body">
-
-<p align="center">
-<img src="imagens/processo-criativo.svg" alt="imagem do cabeçalho">
-</p>
