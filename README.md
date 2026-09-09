@@ -5,6 +5,7 @@
 ---
 
 ## 💻 Sobre Mim
+<br>
 
 <img src="imagens/body-banner.svg" alt="imagem do body">
 
@@ -25,6 +26,7 @@
 ---
 
 ## 💻 WesleyTech77
+
 > Meu projeto pessoal para praticar programação e desenvolver minhas habilidades.
 
 **Status:** 🚧 Em desenvolvimento
