@@ -2,6 +2,10 @@
 <img src="imagens/head-banner1.svg" alt="imagem do cabeçalho">
 </p>
 
+---
+
+##💻 Sobre Mim
+
 <img src="imagens/body-banner.svg" alt="imagem do body">
 
 ---
@@ -20,7 +24,7 @@
 
 ---
 
-### 💻 WesleyTech77
+## 💻 WesleyTech77
 > Meu projeto pessoal para praticar programação e desenvolver minhas habilidades.
 
 **Status:** 🚧 Em desenvolvimento
