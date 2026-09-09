@@ -4,7 +4,7 @@
 
 ---
 
-##💻 Sobre Mim
+## 💻 Sobre Mim
 
 <img src="imagens/body-banner.svg" alt="imagem do body">
 
