@@ -1,5 +1,4 @@
 <p align="center">
-<img src="imagens/head-banner1.svg" alt="imagem do cabeçalho">
 </p>
 
 ---
