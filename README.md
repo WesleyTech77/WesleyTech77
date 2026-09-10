@@ -16,7 +16,7 @@
 ### ☕ Cafe-do-Sub
 > Um site de uma cafeteria desenvolvido para praticar HTML e criação de páginas web.
 
-**Status:** 🚧 Em desenvolvimento
+**Status:** Em desenvolvimento
 
 **Tecnologias:**
 `HTML` `CSS`
@@ -29,6 +29,6 @@
 
 > Meu projeto pessoal para praticar programação e desenvolver minhas habilidades.
 
-**Status:** 🚧 Em desenvolvimento
+**Status:** Em desenvolvimento
 
 🔗 [Ver repositório](https://github.com/WesleyTech77/WesleyTech77)
