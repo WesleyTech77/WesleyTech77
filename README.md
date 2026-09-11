@@ -27,7 +27,7 @@
 
 ## 💻 WesleyTech77
 
-> Meu projeto pessoal para praticar programação e desenvolver minhas habilidades.
+> Meu perfil
 
 **Status:** Em desenvolvimento
 
