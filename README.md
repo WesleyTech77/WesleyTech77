@@ -10,6 +10,12 @@
 <img src="imagens/body-banner.svg" alt="imagem do body">
 
 ---
+## ⚡Habilidades
+<br>
+
+<img src="imagens/skills-banner.svg" alt="imagem do body">
+
+---
 
 ## 🚀 Meus Projetos
 
