@@ -1,0 +1,395 @@
+<svg viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1YjJiMTk4NS04ZWVjLTQyZjQtYjE5My1kZmRiZWExNzQwMjEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaB6U+Dd0igGzmCbgH8AM1/EAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2NzhmN2U1MC01ZTg4LTQ0ZGItYTdkNy1iMzMwODU5MDA4NjFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoiQzDvqXm1QeuSjpXhh2kZwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggDAKlIebA8ixbNBkdtIRij7FlChhRudhOHhQt1fTwq2akZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGemfDQ/ngwTuCKHmgr8FjYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCC0JrXu4gPvHw550JPxRAm2y5d+R69jBhm+HrwZjjEbU2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi0Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjViMmIxOTg1LThlZWMtNDJmNC1iMTkzLWRmZGJlYTE3NDAyMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmEzMzE3ZmVkLWIxYWMtNGYyZi1iZjlkLTNmM2E4NThmNWIwZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAMAqUh5sDyLFs0GR20hGKPsWUKGFG52E4eFC3V9PCrZqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggoRqOiYw6UaGHA6jHZBKdNAuar4Sk7Pevh55Sbc14hYWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg8S46BH9XqMsn2BBugMV0eYdFMJaPiX7YxlcJhfzJqzF0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHXnMG/gGOAEUdPYT413xRdF2b/oGoCkJk+ChPrlXqDABmIOmlg2wkWVbXrXhJvi/+WSToSgTCGOhoCET89UY54=</c2pa:manifest></metadata>
+
+  <!-- ============================================================
+       SKILLS BANNER — Front-End / UI-UX / Software Engineering
+       Segue a linguagem visual de head-banner.svg (tons escuros,
+       ciano neon, glow suave, revelações por clip-path) e de
+       body-banner.svg (janela tipo editor de código, badges,
+       tipografia mono para trechos de código, pulso sutil de opacidade).
+       ============================================================ -->
+
+  <defs>
+    <radialGradient id="skbBg" cx="50%" cy="25%" r="85%">
+      <stop offset="0%" stop-color="#141920"/>
+      <stop offset="100%" stop-color="#0b0e12"/>
+    </radialGradient>
+
+    <linearGradient id="skbPanel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#101720"/>
+      <stop offset="55%" stop-color="#0c131a"/>
+      <stop offset="100%" stop-color="#090d12"/>
+    </linearGradient>
+
+    <linearGradient id="skbHeader" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#101820"/>
+      <stop offset="100%" stop-color="#0b1015"/>
+    </linearGradient>
+
+    <linearGradient id="skbCyanLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d0f12" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#00bfff"/>
+      <stop offset="50%" stop-color="#00d9ff"/>
+      <stop offset="80%" stop-color="#00bfff"/>
+      <stop offset="100%" stop-color="#0d0f12" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="skbWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00bfff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00d9ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00bfff" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="skbSoftGlow" x="-80%" y="-200%" width="260%" height="500%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="skbBlurGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+
+    <filter id="skbTitleGlow" x="-60%" y="-200%" width="220%" height="500%">
+      <feGaussianBlur stdDeviation="1.6" result="b">
+        <animate attributeName="stdDeviation" values="1.2;2.6;1.2" dur="5.5s" begin="1.6s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <clipPath id="skbClip">
+      <rect x="0" y="0" width="900" height="400" rx="20" ry="20"/>
+    </clipPath>
+
+    <pattern id="skbDots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#2fb4d9"/>
+    </pattern>
+  </defs>
+
+  <g clip-path="url(#skbClip)">
+
+    <!-- fundo -->
+    <rect x="0" y="0" width="900" height="400" fill="url(#skbBg)"/>
+
+    <!-- brilhos ambiente -->
+    <circle cx="840" cy="40" r="120" fill="#1583a8" opacity="0.10" filter="url(#skbBlurGlow)"/>
+    <circle cx="40" cy="380" r="140" fill="#0e6c8c" opacity="0.09" filter="url(#skbBlurGlow)">
+      <animate attributeName="opacity" values="0.05;0.11;0.05" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="360" r="150" fill="#0b5a78" opacity="0.07" filter="url(#skbBlurGlow)">
+      <animate attributeName="opacity" values="0.04;0.09;0.04" dur="12s" begin="-4s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- textura sutil de pontos -->
+    <rect x="0" y="44" width="900" height="356" fill="url(#skbDots)" opacity="0.05"/>
+
+    <!-- onda neon bem discreta atravessando o fundo -->
+    <g transform="translate(0,392)" opacity="0.7">
+      <path d="M -300,0 C -200,10 -100,-10 0,0 C 100,10 200,-10 300,0
+               C 400,10 500,-10 600,0 C 700,10 800,-10 900,0
+               C 1000,10 1100,-10 1200,0" fill="none" stroke="url(#skbWave)" stroke-width="2">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="18s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- ================= HEADER (estilo editor) ================= -->
+    <rect x="0" y="0" width="900" height="44" fill="url(#skbHeader)"/>
+    <line x1="0" y1="44" x2="900" y2="44" stroke="#142029" stroke-width="1"/>
+
+    <circle cx="28" cy="22" r="6" fill="#2ea8d6" opacity="0.85"/>
+    <circle cx="50" cy="22" r="6" fill="#4fc3e8" opacity="0.65"/>
+    <circle cx="72" cy="22" r="6" fill="#7fdcf5" opacity="0.45"/>
+
+    <text x="100" y="27" font-family="'Fira Code','Consolas',monospace" font-size="12.5" fill="#6f93ab">skills.ts</text>
+    <text x="876" y="27" font-family="'Fira Code','Consolas',monospace" font-size="11" fill="#33505f" text-anchor="end">UTF-8</text>
+
+    <!-- linha ciano de destaque sob o header, com brilho percorrendo -->
+    <rect x="0" y="43" width="900" height="2" fill="url(#skbCyanLine)" opacity="0.55" filter="url(#skbSoftGlow)"/>
+    <circle cy="44" r="2.6" fill="#bfefff" filter="url(#skbSoftGlow)">
+      <animate attributeName="cx" values="-20;920;-20" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.1;0.9;1" dur="9s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- borda externa sutil -->
+    <rect x="1" y="1" width="898" height="398" rx="19" ry="19" fill="none" stroke="#1c2128" stroke-width="1"/>
+
+    <!-- ================================================================
+         CARD 1 — FRONT-END
+         ================================================================ -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.7s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 16" to="0 0"
+                         begin="0.3s" dur="0.7s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+
+      <rect x="24" y="64" width="268" height="310" rx="16" fill="url(#skbPanel)" stroke="#16323f" stroke-width="1.2" opacity="0.95"/>
+      <rect x="24" y="64" width="268" height="2.4" rx="1.2" fill="url(#skbCyanLine)" opacity="0.6"/>
+
+      <g filter="url(#skbTitleGlow)">
+        <text x="158" y="110" text-anchor="middle" font-size="19" font-weight="700" fill="#f5f5f5">💻 FRONT-END</text>
+      </g>
+
+      <g text-anchor="middle" font-size="10.5" letter-spacing="0.6" fill="#4fd8f0">
+        <text x="158" y="136">HTML • CSS • JavaScript</text>
+        <text x="158" y="150">TypeScript • React</text>
+      </g>
+
+      <rect x="44" y="164" width="0" height="1.6" fill="url(#skbCyanLine)" opacity="0.8">
+        <animate attributeName="width" from="0" to="208" begin="0.45s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+
+      <!-- ícones -->
+      <!-- HTML -->
+      <g transform="translate(62,200)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.4s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="62 208" to="62 200" begin="0.65s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+        <rect x="-17" y="-17" width="34" height="34" rx="9" fill="#0e151b" stroke="#1c2f3a" stroke-width="1.2"/>
+        <text text-anchor="middle" dy="3" font-family="'Fira Code','Consolas',monospace" font-size="8" font-weight="700" fill="#4fd8f0">
+          HTML
+          <animate attributeName="opacity" values="1;0.75;1" dur="5s" begin="2s" repeatCount="indefinite"/>
+        </text>
+      </g>
+      <!-- CSS -->
+      <g transform="translate(110,200)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.73s" dur="0.4s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="110 208" to="110 200" begin="0.73s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+        <rect x="-17" y="-17" width="34" height="34" rx="9" fill="#0e151b" stroke="#1c2f3a" stroke-width="1.2"/>
+        <text text-anchor="middle" dy="3" font-family="'Fira Code','Consolas',monospace" font-size="9.5" font-weight="700" fill="#4fd8f0">
+          CSS
+          <animate attributeName="opacity" values="1;0.75;1" dur="4.6s" begin="2.3s" repeatCount="indefinite"/>
+        </text>
+      </g>
+      <!-- JS -->
+      <g transform="translate(158,200)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.81s" dur="0.4s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="158 208" to="158 200" begin="0.81s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+        <rect x="-17" y="-17" width="34" height="34" rx="9" fill="#0e151b" stroke="#1c2f3a" stroke-width="1.2"/>
+        <text text-anchor="middle" dy="3.5" font-family="'Fira Code','Consolas',monospace" font-size="11" font-weight="700" fill="#7fe8ff">
+          JS
+          <animate attributeName="opacity" values="1;0.75;1" dur="5.2s" begin="2.6s" repeatCount="indefinite"/>
+        </text>
+      </g>
+      <!-- TS -->
+      <g transform="translate(206,200)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.89s" dur="0.4s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="206 208" to="206 200" begin="0.89s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+        <rect x="-17" y="-17" width="34" height="34" rx="9" fill="#0e151b" stroke="#1c2f3a" stroke-width="1.2"/>
+        <text text-anchor="middle" dy="3.5" font-family="'Fira Code','Consolas',monospace" font-size="11" font-weight="700" fill="#4fd8f0">
+          TS
+          <animate attributeName="opacity" values="1;0.75;1" dur="4.9s" begin="2.9s" repeatCount="indefinite"/>
+        </text>
+      </g>
+      <!-- React (atomo) -->
+      <g transform="translate(254,200)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.97s" dur="0.4s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="254 208" to="254 200" begin="0.97s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+        <rect x="-17" y="-17" width="34" height="34" rx="9" fill="#0e151b" stroke="#1c2f3a" stroke-width="1.2"/>
+        <g stroke="#4fd8f0" stroke-width="1.3" fill="none">
+          <ellipse rx="10" ry="4"/>
+          <ellipse rx="10" ry="4" transform="rotate(60)"/>
+          <ellipse rx="10" ry="4" transform="rotate(120)"/>
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+        </g>
+        <circle r="2" fill="#7fe8ff"/>
+      </g>
+
+      <text x="158" y="246" text-anchor="middle" font-style="italic" font-size="10" letter-spacing="0.2" fill="#5f7d8f">Interfaces modernas e responsivas</text>
+
+      <!-- mini trecho de código decorativo -->
+      <g font-family="'Fira Code','Consolas',monospace" font-size="11">
+        <text x="46" y="276">
+          <animate attributeName="opacity" values="0.6;1;1;0.6" keyTimes="0;0.15;0.85;1" dur="13s" begin="1.4s" repeatCount="indefinite"/>
+          <tspan fill="#3f7ea3">const</tspan><tspan fill="#dbe6ee"> ui = </tspan><tspan fill="#3f7ea3">&lt;</tspan><tspan fill="#4fd8f0">App</tspan><tspan fill="#3f7ea3">/&gt;;</tspan>
+        </text>
+        <text x="46" y="296">
+          <animate attributeName="opacity" values="0.6;1;1;0.6" keyTimes="0;0.15;0.85;1" dur="13s" begin="1.6s" repeatCount="indefinite"/>
+          <tspan fill="#4fd8f0">render</tspan><tspan fill="#dbe6ee">(ui, root);</tspan>
+        </text>
+        <text x="46" y="316">
+          <animate attributeName="opacity" values="0.6;1;1;0.6" keyTimes="0;0.15;0.85;1" dur="13s" begin="1.8s" repeatCount="indefinite"/>
+          <tspan fill="#3f7ea3">export default</tspan><tspan fill="#dbe6ee"> App;</tspan>
+        </text>
+      </g>
+      <rect x="182" y="305" width="7" height="13" fill="#7fe8ff" filter="url(#skbSoftGlow)">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02;0.05;0.5;0.53;1" dur="1.6s" begin="2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- ================================================================
+         CARD 2 — UI/UX DESIGN
+         ================================================================ -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.7s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 16" to="0 0"
+                         begin="0.55s" dur="0.7s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+
+      <rect x="316" y="64" width="268" height="310" rx="16" fill="url(#skbPanel)" stroke="#16323f" stroke-width="1.2" opacity="0.95"/>
+      <rect x="316" y="64" width="268" height="2.4" rx="1.2" fill="url(#skbCyanLine)" opacity="0.6"/>
+
+      <g filter="url(#skbTitleGlow)">
+        <text x="450" y="110" text-anchor="middle" font-size="19" font-weight="700" fill="#f5f5f5">🎨 UI/UX DESIGN</text>
+      </g>
+
+      <g text-anchor="middle" font-size="10.5" letter-spacing="0.6" fill="#4fd8f0">
+        <text x="450" y="136">UI Design • UX Design</text>
+        <text x="450" y="150">Prototipação • Design Systems</text>
+      </g>
+
+      <rect x="336" y="164" width="0" height="1.6" fill="url(#skbCyanLine)" opacity="0.8">
+        <animate attributeName="width" from="0" to="208" begin="0.7s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+
+      <!-- UI Design: janela/interface -->
+      <g transform="translate(378,200)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.4s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="378 208" to="378 200" begin="0.9s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+        <rect x="-17" y="-17" width="34" height="34" rx="9" fill="#0e151b" stroke="#1c2f3a" stroke-width="1.2"/>
+        <g stroke="#4fd8f0" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="-9" y="-8" width="18" height="14" rx="1.5"/>
+          <line x1="-9" y1="-3.5" x2="9" y2="-3.5"/>
+        </g>
+        <path d="M 3,3 L 3,10 L 5.5,7.8 L 7.5,10.5 L 9,9.3 L 7,6.5 Z" fill="#7fe8ff" stroke="none">
+          <animate attributeName="opacity" values="1;0.7;1" dur="4.8s" begin="2.1s" repeatCount="indefinite"/>
+        </path>
+      </g>
+      <!-- UX Design: fluxo de nós -->
+      <g transform="translate(426,200)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.98s" dur="0.4s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="426 208" to="426 200" begin="0.98s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+        <rect x="-17" y="-17" width="34" height="34" rx="9" fill="#0e151b" stroke="#1c2f3a" stroke-width="1.2"/>
+        <g stroke="#4fd8f0" stroke-width="1.3" fill="none">
+          <path d="M -9,7 C -3,7 -3,-7 3,-7 C 7,-7 7,0 10,0"/>
+        </g>
+        <circle cx="-9" cy="7" r="2.1" fill="#4fd8f0"/>
+        <circle cx="3" cy="-7" r="2.1" fill="#4fd8f0"/>
+        <circle cx="10" cy="0" r="2.1" fill="#7fe8ff">
+          <animate attributeName="opacity" values="1;0.6;1" dur="4.5s" begin="2.4s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <!-- Prototipação: telas empilhadas -->
+      <g transform="translate(474,200)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="1.06s" dur="0.4s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="474 208" to="474 200" begin="1.06s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+        <rect x="-17" y="-17" width="34" height="34" rx="9" fill="#0e151b" stroke="#1c2f3a" stroke-width="1.2"/>
+        <rect x="-8" y="-9" width="14" height="11" rx="1.5" fill="none" stroke="#2a5568" stroke-width="1.1"/>
+        <rect x="-5" y="-5" width="14" height="11" rx="1.5" fill="none" stroke="#4fd8f0" stroke-width="1.3">
+          <animate attributeName="opacity" values="1;0.7;1" dur="5s" begin="2.6s" repeatCount="indefinite"/>
+        </rect>
+        <line x1="-2.5" y1="-1" x2="6" y2="-1" stroke="#7fe8ff" stroke-width="1" stroke-dasharray="1.5,1.5"/>
+      </g>
+      <!-- Design Systems: grid de componentes -->
+      <g transform="translate(522,200)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="1.14s" dur="0.4s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="522 208" to="522 200" begin="1.14s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+        <rect x="-17" y="-17" width="34" height="34" rx="9" fill="#0e151b" stroke="#1c2f3a" stroke-width="1.2"/>
+        <rect x="-9" y="-9" width="7" height="7" rx="1.2" fill="#4fd8f0"/>
+        <rect x="2" y="-9" width="7" height="7" rx="1.2" fill="#2a5568" stroke="#4fd8f0" stroke-width="0.8"/>
+        <rect x="-9" y="2" width="7" height="7" rx="1.2" fill="#2a5568" stroke="#4fd8f0" stroke-width="0.8"/>
+        <rect x="2" y="2" width="7" height="7" rx="1.2" fill="#7fe8ff">
+          <animate attributeName="opacity" values="1;0.65;1" dur="4.7s" begin="2.9s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <text x="450" y="246" text-anchor="middle" font-style="italic" font-size="10" letter-spacing="0.2" fill="#5f7d8f">Experiências centradas no usuário</text>
+
+      <g font-family="'Fira Code','Consolas',monospace" font-size="11">
+        <text x="338" y="276">
+          <animate attributeName="opacity" values="0.6;1;1;0.6" keyTimes="0;0.15;0.85;1" dur="13s" begin="1.5s" repeatCount="indefinite"/>
+          <tspan fill="#4fd8f0">design</tspan><tspan fill="#3f7ea3">.</tspan><tspan fill="#4fd8f0">prototype</tspan><tspan fill="#dbe6ee">();</tspan>
+        </text>
+        <text x="338" y="296">
+          <animate attributeName="opacity" values="0.6;1;1;0.6" keyTimes="0;0.15;0.85;1" dur="13s" begin="1.7s" repeatCount="indefinite"/>
+          <tspan fill="#4fd8f0">system</tspan><tspan fill="#3f7ea3">.</tspan><tspan fill="#dbe6ee">tokens</tspan><tspan fill="#3f7ea3">.</tspan><tspan fill="#4fd8f0">sync</tspan><tspan fill="#dbe6ee">();</tspan>
+        </text>
+        <text x="338" y="316">
+          <animate attributeName="opacity" values="0.6;1;1;0.6" keyTimes="0;0.15;0.85;1" dur="13s" begin="1.9s" repeatCount="indefinite"/>
+          <tspan fill="#4fd8f0">figma</tspan><tspan fill="#3f7ea3">.</tspan><tspan fill="#4fd8f0">export</tspan><tspan fill="#dbe6ee">(</tspan><tspan fill="#5eead4">'assets'</tspan><tspan fill="#dbe6ee">);</tspan>
+        </text>
+      </g>
+      <rect x="502" y="305" width="7" height="13" fill="#7fe8ff" filter="url(#skbSoftGlow)">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02;0.05;0.5;0.53;1" dur="1.6s" begin="2.3s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- ================================================================
+         CARD 3 — SOFTWARE ENGINEERING
+         ================================================================ -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.7s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="0 16" to="0 0"
+                         begin="0.8s" dur="0.7s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+
+      <rect x="608" y="64" width="268" height="310" rx="16" fill="url(#skbPanel)" stroke="#16323f" stroke-width="1.2" opacity="0.95"/>
+      <rect x="608" y="64" width="268" height="2.4" rx="1.2" fill="url(#skbCyanLine)" opacity="0.6"/>
+
+      <g filter="url(#skbTitleGlow)">
+        <text x="742" y="110" text-anchor="middle" font-size="19" font-weight="700" fill="#f5f5f5">⚙️ SOFTWARE ENGINEERING</text>
+      </g>
+
+      <g text-anchor="middle" font-size="10.5" letter-spacing="0.6" fill="#4fd8f0">
+        <text x="742" y="136">Arquitetura • Boas práticas</text>
+        <text x="742" y="150">Desenvolvimento</text>
+      </g>
+
+      <rect x="628" y="164" width="0" height="1.6" fill="url(#skbCyanLine)" opacity="0.8">
+        <animate attributeName="width" from="0" to="208" begin="0.95s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+
+      <!-- Arquitetura: camadas empilhadas -->
+      <g transform="translate(694,200)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="1.15s" dur="0.4s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="694 208" to="694 200" begin="1.15s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+        <rect x="-17" y="-17" width="34" height="34" rx="9" fill="#0e151b" stroke="#1c2f3a" stroke-width="1.2"/>
+        <g fill="none" stroke="#4fd8f0" stroke-width="1.3" stroke-linecap="round">
+          <rect x="-9" y="-9" width="18" height="5" rx="1.4"/>
+          <rect x="-9" y="-1.5" width="18" height="5" rx="1.4" opacity="0.85"/>
+          <rect x="-9" y="6" width="18" height="5" rx="1.4" opacity="0.7">
+            <animate attributeName="opacity" values="0.7;0.35;0.7" dur="4.6s" begin="2.4s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+      <!-- Boas práticas: escudo com check -->
+      <g transform="translate(742,200)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="1.23s" dur="0.4s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="742 208" to="742 200" begin="1.23s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+        <rect x="-17" y="-17" width="34" height="34" rx="9" fill="#0e151b" stroke="#1c2f3a" stroke-width="1.2"/>
+        <path d="M 0,-9 L 8,-5.5 L 8,2 C 8,7 4,9.5 0,11 C -4,9.5 -8,7 -8,2 L -8,-5.5 Z"
+              fill="none" stroke="#4fd8f0" stroke-width="1.3" stroke-linejoin="round"/>
+        <path d="M -3.5,0.5 L -1,3.5 L 4,-2.5" fill="none" stroke="#7fe8ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <animate attributeName="opacity" values="1;0.65;1" dur="5s" begin="2.7s" repeatCount="indefinite"/>
+        </path>
+      </g>
+      <!-- Desenvolvimento: </> -->
+      <g transform="translate(790,200)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="1.31s" dur="0.4s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="790 208" to="790 200" begin="1.31s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+        <rect x="-17" y="-17" width="34" height="34" rx="9" fill="#0e151b" stroke="#1c2f3a" stroke-width="1.2"/>
+        <g fill="none" stroke="#4fd8f0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M -3,-7 L -9,0 L -3,7"/>
+          <path d="M 3,-7 L 9,0 L 3,7"/>
+        </g>
+        <line x1="-1.5" y1="8" x2="1.5" y2="-8" stroke="#7fe8ff" stroke-width="1.4" stroke-linecap="round">
+          <animate attributeName="opacity" values="1;0.7;1" dur="4.4s" begin="3s" repeatCount="indefinite"/>
+        </line>
+      </g>
+
+      <text x="742" y="246" text-anchor="middle" font-style="italic" font-size="10" letter-spacing="0.2" fill="#5f7d8f">Sistemas robustos e escaláveis</text>
+
+      <g font-family="'Fira Code','Consolas',monospace" font-size="11">
+        <text x="630" y="276">
+          <animate attributeName="opacity" values="0.6;1;1;0.6" keyTimes="0;0.15;0.85;1" dur="13s" begin="1.6s" repeatCount="indefinite"/>
+          <tspan fill="#3f7ea3">class</tspan><tspan fill="#4fd8f0"> Service </tspan><tspan fill="#dbe6ee">{</tspan>
+        </text>
+        <text x="630" y="296">
+          <animate attributeName="opacity" values="0.6;1;1;0.6" keyTimes="0;0.15;0.85;1" dur="13s" begin="1.8s" repeatCount="indefinite"/>
+          <tspan fill="#dbe6ee">  </tspan><tspan fill="#4fd8f0">build</tspan><tspan fill="#dbe6ee">(): </tspan><tspan fill="#5eead4">Result</tspan><tspan fill="#dbe6ee"> {}</tspan>
+        </text>
+        <text x="630" y="316">
+          <animate attributeName="opacity" values="0.6;1;1;0.6" keyTimes="0;0.15;0.85;1" dur="13s" begin="2s" repeatCount="indefinite"/>
+          <tspan fill="#dbe6ee">}</tspan>
+        </text>
+      </g>
+      <rect x="644" y="305" width="7" height="13" fill="#7fe8ff" filter="url(#skbSoftGlow)">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02;0.05;0.5;0.53;1" dur="1.6s" begin="2.6s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+  </g>
+</svg>
