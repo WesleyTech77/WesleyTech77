@@ -15,6 +15,12 @@
 
 <img src="imagens/skills-banner.svg" alt="imagem do body">
 
+
+---
+## ⚡Habilidades 2
+<br>
+
+<img src="imagens/skills-banner1.svg" alt="imagem do body">
 ---
 
 ## 🚀 Meus Projetos
