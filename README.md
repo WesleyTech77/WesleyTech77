@@ -13,7 +13,7 @@
 ## ⚡Habilidades
 <br>
 
-<img src="imagens/skills-banner.svg" alt="imagem do body">
+<img src="imagens/skills-banner7.svg" alt="imagem do skills">
 
 
 ---
