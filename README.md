@@ -7,7 +7,7 @@
 ## 💻 Sobre Mim
 <br>
 
-<img src="imagens/body-banner.svg" alt="imagem do body">
+<img src="imagens/body-bannerv1.svg" alt="imagem do body">
 
 ---
 ## ⚡Habilidades
