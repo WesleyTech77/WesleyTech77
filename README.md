@@ -1,16 +1,41 @@
-## Hi there 👋
+<p align="center">
+<img src="imagens/head-banner.svg" alt="imagem do cabeçalho">
+</p>
 
-<!--
-**WesleyTech77/WesleyTech77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Sobre Mim
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="imagens/body-bannerv1.svg" alt="imagem do body">
+
+---
+## ⚡Habilidades
+<br>
+
+<img src="imagens/skills-banner7.svg" alt="imagem do skills">
+
+
+---
+
+## 🚀 Meus Projetos
+
+### ☕ Cafe-do-Sub
+> Um site de uma cafeteria desenvolvido para praticar HTML e criação de páginas web.
+
+**Status:** Em desenvolvimento
+
+**Tecnologias:**
+`HTML` `CSS`
+
+🔗 [Ver repositório](https://github.com/WesleyTech77/Cafe-do-Sub)
+
+---
+
+## 💻 WesleyTech77
+
+> Meu perfil
+
+**Status:** Em desenvolvimento
+
+🔗 [Ver repositório](https://github.com/WesleyTech77/WesleyTech77)
